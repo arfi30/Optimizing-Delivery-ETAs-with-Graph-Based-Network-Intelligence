@@ -1,0 +1,9 @@
+dist_band,route_type,median_ratio,median_actual,n
+<25km,Carting,2.32,37.0,3332
+<25km,FTL,2.15,40.0,661
+25-100km,Carting,1.92,75.0,5830
+25-100km,FTL,1.81,79.0,3486
+100-300km,Carting,1.73,191.0,625
+100-300km,FTL,1.83,242.5,2674
+>300km,Carting,0.97,246.5,31
+>300km,FTL,1.72,891.5,1593
